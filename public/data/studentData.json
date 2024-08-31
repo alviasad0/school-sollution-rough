@@ -1,0 +1,15 @@
+{
+    "student": {
+        "name": "Moni Roy",
+        "profilePicture": "https://i.ibb.co/nmsC7f0/118d396f344624b878b77f40697b426b.png",
+        "roll": "011201010",
+        "address": "421/A, Khilgaon, Dhhaka, Bangladesh",
+        "mobileNumber": "0120010203",
+        "class": "SIX"
+    },
+    "guardian": {
+        "name": "MD. Ahsan Billah",
+        "mobileNumber": "01720434354",
+        "occupation": "Rajakar"
+    }
+}
